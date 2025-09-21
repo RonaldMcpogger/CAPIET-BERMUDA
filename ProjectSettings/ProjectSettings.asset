@@ -159,7 +159,8 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   androidMinAspectRatio: 1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.CAPSTONE-BERMUDA-STUDIOS
   buildNumber:
     Bratwurst: 0
     Standalone: 0
@@ -855,7 +856,7 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: e3473a44-a9f4-42d8-aa86-ae5042c42b3d
   framebufferDepthMemorylessMode: 0
